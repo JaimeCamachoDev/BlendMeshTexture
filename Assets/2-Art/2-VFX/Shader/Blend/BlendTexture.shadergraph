@@ -1417,10 +1417,10 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.GroupData",
     "m_ObjectId": "1c1168ecc639467ea1100a1e5cb30869",
-    "m_Title": "MAS",
+    "m_Title": "MASK",
     "m_Position": {
-        "x": -1456.999755859375,
-        "y": 669.0
+        "x": -1457.0,
+        "y": 669.0000610351563
     }
 }
 
@@ -1561,7 +1561,7 @@
     "m_Title": "Normal",
     "m_Position": {
         "x": -1841.0,
-        "y": 5.999973297119141
+        "y": 6.0
     }
 }
 
@@ -2018,7 +2018,7 @@
     "m_ObjectId": "40e59af2b3e944338da002a6995ade01",
     "m_Title": "Blend",
     "m_Position": {
-        "x": -2438.0,
+        "x": -2438.00048828125,
         "y": 1572.0001220703125
     }
 }
@@ -3549,17 +3549,17 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "92dc2d8c3b4c4264831630972a187ee9",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "268c0849663945b58bd620b927168adc"
     },
     "m_Name": "Property",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -758.002685546875,
-            "y": 486.0735168457031,
-            "width": 0.0,
-            "height": 0.0
+            "x": -877.0,
+            "y": 402.0,
+            "width": 196.0,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -5182,8 +5182,8 @@
     "m_ObjectId": "e8de6cc334644333bb942cf5d820b9d9",
     "m_Title": "Albedo",
     "m_Position": {
-        "x": -1841.0001220703125,
-        "y": -745.0
+        "x": -1841.000244140625,
+        "y": -745.000244140625
     }
 }
 
