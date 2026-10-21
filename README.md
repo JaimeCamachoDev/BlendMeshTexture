@@ -15,11 +15,14 @@ _**Blend Meshes and Textures for Unity 6**_
 
 ## Contenido
 
-* **Shader Graph:** `BlendTexture`, `LayeredLit_Graph`, `Terrain Nilo`, `TriplanarRock`, `TriplanarTerrainRock`
-* **Sub Graphs:** `BiplanarMapping`, `BiplanarNormalConvert`, `CalculateTerrainBlendMask_Subgraph`, `NormalRemap-Reconstruct`, `UnpackTerrainData`
-* **Shaders HLSL:** `TerrainDeformer`
-* **Prefabs:** `cliff_rock_wall_1`, `cliff_rock_wall_2`, `cliff_rock_wall_3`
-* **Escenas:** `Assets/3-Scenes/BlendMeshTexture.unity`, `Assets/3-Scenes/Main.unity`
+Efectos en `Assets/2-Art/2-VFX/`:
+
+| Efecto | VFX | Shader Graph | Shaders | Scripts | Prefabs | Materiales |
+|---|---|---|---|---|---|---|
+| **Shader** | — | 7 | — | — | 3 | 6 |
+| **Terrain** | — | 3 | 1 | — | — | 3 |
+
+**Escenas de demostración:** `Assets/3-Scenes/BlendMeshTexture.unity`, `Assets/3-Scenes/Main.unity`
 
 ## Uso
 
